@@ -1,12 +1,10 @@
-# WDE06 Looping Lanes: Iteration and Conditionals in JavaScript
-
-### Looping Lanes
+# WDE06 Looping Lanes: Mastering Loops and Conditionals in JavaScript
 ![Screenshot of the finished webpage](./assets/images/example.png)
 
-## Description
+## Description 📄
 In this assignment, you will work with arrays and loops in JavaScript to demonstrate basic iteration, conditional logic, and operations like doubling a value. You will create arrays for student names, numbers, and scores, and use loops to output meaningful information based on each dataset. Additionally, you will explore how to double a value repeatedly using a `while` loop.
 
-## Project Structure
+## Expected Project Structure 🏗️
 Your project will have the following structure:
 ```
 javascript-loops/
@@ -198,7 +196,7 @@ You're ready to apply these techniques to more complex data sets and problems!
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-4-the-box-model/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-conditional-loops/tree/solution) (link not shown).
 
 ---
 
