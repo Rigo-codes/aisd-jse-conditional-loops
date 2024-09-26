@@ -1,5 +1,6 @@
-# WDE06 Looping Lanes: Mastering Loops and Conditionals in JavaScript
+# Looping Lanes: Mastering Loops and Conditionals in JavaScript
 ![Screenshot of the finished webpage](./assets/images/example.png)
+
 
 ## Description 📄
 In this assignment, you will work with arrays and loops in JavaScript to demonstrate basic iteration, conditional logic, and operations like doubling a value. You will create arrays for student names, numbers, and scores, and use loops to output meaningful information based on each dataset. Additionally, you will explore how to double a value repeatedly using a `while` loop.
