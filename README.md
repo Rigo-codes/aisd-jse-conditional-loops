@@ -1,5 +1,5 @@
 # Looping Lanes: Mastering Loops and Conditionals in JavaScript
-![Screenshot of the finished webpage](./assets/images/example.png)
+![Code snippet displaying examples of "for" and "while" loops in a programming language, highlighting iteration logic](./assets/images/example.png)
 
 
 ## Description 📄
